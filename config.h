@@ -12,7 +12,7 @@ static const Block blocks[] = {
         {"",	"sb-cpu",        	1,      4},
         {"",	"sb-mem",        	1,      3},
         {"",	"sb-mic",      		0,      13},
-        {"",	"sb-vol",      		0,      2},
+        {"",	"sb-audio",    		0,      2},
         {"",	"sb-clock",       	0,      1},
 };
 
