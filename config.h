@@ -7,6 +7,7 @@ static const Block blocks[] = {
         {"",	"sb-disk $HOME",	30,	12},
         {"",	"sb-rss",         	0,      8},
         {"",	"sb-updates",		3600,   7},
+        {"",	"sb-kbselect",		0,   	14},
         {"",	"sb-backlight",   	0,      6},
         {"",	"sb-battery",    	1,      5},
         {"",	"sb-cpu",        	1,      4},
