@@ -1,4 +1,4 @@
-# mouseless-wmblocks
+# Mousepoison Window Manger Blocks
 
 Modular status bar for dwm written in c.
 
