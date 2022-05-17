@@ -1,4 +1,4 @@
-# rodenticide-wmblocks
+# mouseless-wmblocks
 
 Modular status bar for dwm written in c.
 
